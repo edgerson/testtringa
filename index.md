@@ -24,8 +24,10 @@ page_sections:
   block: hero-2
   slug: features
   headline: Continuous delivery for your whole team
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  content: Tringa lets you seamlessly deploy your apps through your development pipeline
+    to any hosting solution. With easy access to version status and deployment process,
+    Tringa empowers your team members to stay informed and push apps along. Plus,
+    you’ll get some extra features like easy rollbacks and redeployments.
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
