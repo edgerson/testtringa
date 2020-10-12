@@ -24,9 +24,9 @@ page_sections:
   block: hero-2
   slug: features
   headline: Continuous delivery for your whole team
-  content: Tringa lets you seamlessly deploy your apps through your unique development
+  content: Tringa helps you seamlessly deploy software through your unique development
     pipeline to any hosting solution. With easy access to version status and deployment
-    process, Tringa empowers your team members to stay informed and push apps along.
+    process, Tringa empowers your team to stay in sync and keep releasing great apps.
     Plus, you’ll get some extra features like easy rollbacks and redeployments.
   cta:
     enabled: true
