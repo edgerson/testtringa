@@ -79,17 +79,11 @@ page_sections:
     Blocks and preview them as you go along.</p></li></ol>
 - template: signup-bar
   block: cta-bar
-  content: ''
+  content: Test!
   email_recipient: ''
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
-- template: 4-column-footer
-  block: footer-2
-  image: ''
-  col_2: ''
-  col_3: ''
-  col_4: ''
 published: false
 
 ---
