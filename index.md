@@ -53,9 +53,9 @@ page_sections:
     slug: features
     content: ''
   col_2:
-    headline: test 2
-    slug: test2
-    content: test tests
+    headline: ''
+    slug: ''
+    content: Beta feature 1<br>Beta feature 2
 published: false
 
 ---
