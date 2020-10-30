@@ -47,16 +47,6 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
-- template: 2-column-text
-  block: two-column-1
-  col_1:
-    headline: Beta Features
-    slug: features
-    content: ''
-  col_2:
-    headline: ''
-    slug: ''
-    content: Beta feature 1<br>Beta feature 2
 published: false
 
 ---
