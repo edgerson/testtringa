@@ -47,3 +47,9 @@ fields:
   - type: text
     name: button_text
     label: Button text
+- name: color_picker
+  type: color
+  label: Color picker test
+  config:
+    required: false
+    color_format: Hex
