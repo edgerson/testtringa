@@ -50,7 +50,7 @@ page_sections:
   block: two-column-1
   col_1:
     headline: Beta Features
-    slug: ''
+    slug: features
     content: ''
   col_2:
     headline: test 2
