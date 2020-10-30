@@ -49,13 +49,13 @@ page_sections:
 - template: 2-column-text
   block: two-column-1
   col_1:
-    headline: ''
-    slug: ''
-    content: ''
+    headline: Test
+    slug: test
+    content: test test
   col_2:
-    headline: ''
-    slug: ''
-    content: ''
+    headline: test 2
+    slug: test2
+    content: test tests
 published: false
 
 ---
