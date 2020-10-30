@@ -5,7 +5,7 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2020/10/12/tringawordmark_web_10-2020.png"
+  logo: "/uploads/2020/10/30/tringabirdicon_web.png"
   navigation:
   - link: "/"
     link_text: Ubuild
@@ -19,7 +19,7 @@ page_sections:
     link_text: Blocks
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-    button_text: Import
+    button_text: Sign up for beta
 - template: hero-banner-w-image
   block: hero-2
   slug: features
