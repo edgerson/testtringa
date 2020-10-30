@@ -19,9 +19,7 @@ page_sections:
   slug: features
   headline: Continuous delivery for your whole team
   content: Tringa helps you seamlessly deploy software through your unique development
-    pipeline to any hosting solution. With easy access to version status and deployment
-    process, Tringa empowers your team to stay in sync and keep releasing great tools.
-    Plus, you’ll get some extra features like easy rollbacks and redeployments.
+    pipeline to any hosting solution.
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
