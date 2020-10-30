@@ -49,9 +49,9 @@ page_sections:
 - template: 2-column-text
   block: two-column-1
   col_1:
-    headline: Test
-    slug: test
-    content: test test
+    headline: Beta Features
+    slug: ''
+    content: ''
   col_2:
     headline: test 2
     slug: test2
