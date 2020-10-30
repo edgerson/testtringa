@@ -34,6 +34,7 @@ page_sections:
   content: "<ul><li><p>With easy access to version status and deployment process,
     Tringa empowers your team to stay in sync and keep releasing great tools. Plus,
     you’ll get some extra features like easy rollbacks and redeployments.</p></li></ul>"
+  slug: features
 - template: 1-column-text
   block: one-column-1
   slug: about
