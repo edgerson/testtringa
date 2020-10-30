@@ -27,7 +27,7 @@ page_sections:
   image:
     image: ''
     alt_text: ''
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: ''
   color_picker: "#F5A623"
 - template: detail-content
   block: text-1
