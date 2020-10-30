@@ -7,16 +7,10 @@ page_sections:
   block: header-2
   logo: "/uploads/2020/10/30/tringabirdicon_web.png"
   navigation:
-  - link: "/"
-    link_text: Ubuild
-  - link: "#swap"
-    link_text: Swap
-  - link: "#customize"
-    link_text: Customize
-  - link: "#responsive"
-    link_text: Responsive
+  - link: ''
+    link_text: Features
   - link: "#blocks"
-    link_text: Blocks
+    link_text: About
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
     button_text: Sign up for beta
