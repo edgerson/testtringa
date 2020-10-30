@@ -7,7 +7,7 @@ page_sections:
   block: header-2
   logo: "/uploads/2020/10/30/tringabirdicon_web.png"
   navigation:
-  - link: ''
+  - link: "#features"
     link_text: Features
   - link: "#about"
     link_text: About
