@@ -30,6 +30,10 @@ page_sections:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
+- template: detail-content
+  block: text-1
+  headline: Features
+  content: "<p>This is a paragraph about Tringa.</p>"
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -52,10 +56,6 @@ page_sections:
   image: "/uploads/2018/06/21/theme.png"
   caption: All Available Blocks
   slug: blocks
-- template: detail-content
-  block: text-1
-  headline: About
-  content: "<p>This is a paragraph about Tringa.</p>"
 - template: signup-bar
   block: cta-bar
   content: Test!
