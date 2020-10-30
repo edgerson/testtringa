@@ -33,7 +33,9 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Features
-  content: "<p>This is a paragraph about Tringa.</p>"
+  content: "<ul><li><p>With easy access to version status and deployment process,
+    Tringa empowers your team to stay in sync and keep releasing great tools. Plus,
+    you’ll get some extra features like easy rollbacks and redeployments.</p></li></ul>"
 - template: content-feature
   block: feature-1
   media_alignment: Left
