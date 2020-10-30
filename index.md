@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: ''
     link_text: Features
-  - link: "#blocks"
+  - link: "#about"
     link_text: About
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
