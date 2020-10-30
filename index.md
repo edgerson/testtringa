@@ -34,15 +34,6 @@ page_sections:
   content: "<ul><li><p>With easy access to version status and deployment process,
     Tringa empowers your team to stay in sync and keep releasing great tools. Plus,
     you’ll get some extra features like easy rollbacks and redeployments.</p></li></ul>"
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
-  slug: about
-  headline: "<strong>About</strong>"
-  content: This is background of Tringa...
-  media:
-    image: "/uploads/2018/06/21/blocks-split.png"
-    alt_text: uBuild Blocks Mock-Up
 - template: 1-column-text
   block: one-column-1
   slug: about
