@@ -29,13 +29,6 @@ page_sections:
     alt_text: ''
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
   color_picker: "#F5A623"
-- template: detail-content
-  block: text-1
-  headline: Beta Features
-  content: "<ul><li><p>With easy access to version status and deployment process,
-    Tringa empowers your team to stay in sync and keep releasing great tools. Plus,
-    you’ll get some extra features like easy rollbacks and redeployments.</p></li></ul>"
-  slug: features
 - template: 1-column-text
   block: one-column-1
   slug: about
@@ -48,6 +41,13 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Made with ❤︎ in Canada
+- template: detail-content
+  block: text-1
+  content: "<ul><li><p>With easy access to version status and deployment process,
+    Tringa empowers your team to stay in sync and keep releasing great tools. Plus,
+    you’ll get some extra features like easy rollbacks and redeployments.</p></li></ul>"
+  slug: features
+  headline: Beta Features
 published: false
 
 ---
