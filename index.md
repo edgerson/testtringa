@@ -28,7 +28,7 @@ page_sections:
     image: ''
     alt_text: ''
   background_image: ''
-  color_picker: "#F5A623"
+  color_picker: "#F523E0"
 - template: detail-content
   block: text-1
   content: "<ul><li><p>With easy access to version status and deployment process,
